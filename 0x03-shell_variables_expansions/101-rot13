@@ -1,2 +1,2 @@
-i#!/bin/bash
+#!/bin/bash
 echo "foo BAR [baz]" | tr -d '[A-Z]' | foo  baz
